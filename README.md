@@ -47,7 +47,7 @@ agentcrafter-dynamic-agent-core/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/agentcrafter-dynamic-agent-core.git
+git clone https://github.com/AgentCrafter/dynamic-agent-core.git
 cd agentcrafter-dynamic-agent-core
 
 # Create a virtual environment (optional)
