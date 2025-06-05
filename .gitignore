@@ -5,6 +5,8 @@ __pycache__/
 *.code-workspace
 create-pro.py
 run.py
+*.db
+
 
 # C extensions
 *.so
