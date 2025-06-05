@@ -126,4 +126,4 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 
 ## 👨‍💻 Author
 
-Crafted by **[AgentCrafter](https://github.com/yourusername)** — Contributions welcome!
+Crafted by **[AgentCrafter](https://agentcrafter.github.io/dynamic-agent-core/)** — Contributions welcome!
